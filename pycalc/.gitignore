@@ -1,0 +1,3 @@
+pycalc/src/__pycache__/*
+pycalc/src/pycalc.egg-info/*
+pycalc/build/*
