@@ -12,4 +12,4 @@ jobs:
     environment: production
     steps:
       - name: deploy
-        run: python3 -c pytest
+        run: python3 -c "pytest"
